@@ -2,3 +2,4 @@ jakaś część
 
 druga linia
 a tu jest lokalna zmiana
+linia by wystąpił konflikt
