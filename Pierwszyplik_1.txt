@@ -1,2 +1,4 @@
 zmiana
 druga zmiana
+
+zmiana dla zmianypliku
