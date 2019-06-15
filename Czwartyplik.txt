@@ -1,3 +1,4 @@
 jakaś część
 
 druga linia
+linia by wystąpił konflikt
